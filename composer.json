@@ -28,7 +28,7 @@
         "doctrine/annotations": "^1.10.0",
         "doctrine/common": "^2.5",
         "drupal/coder": "^8.3.1",
-        "drupal/core": "^9.0.0-alpha1",
+        "drupal/core": "~9.0.0",
         "drupol/phposinfo": "^1.6",
         "drush/drush": "^10.2.2",
         "grasmash/yaml-cli": "^2.0.0",
